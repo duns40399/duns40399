@@ -1,7 +1,7 @@
-### Hi there, I'm @duns40399 👋
+### Hi there, I'm Cau - @duns40399 👋
 
 Independent Open Source Contributor & Bug Bounty Hunter.
-
+https://github.com/duns40399/duns40399/blob/main/README.md
 ---
 
 ### 💳 Bounty Payout & Contributor Remittance
