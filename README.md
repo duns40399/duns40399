@@ -1,31 +1,26 @@
-### Hi there, I'm Duns Contributor Worker (@duns40399) 👋
+### Hi there, I'm @duns40399 👋
 
-Independent Open Source Contributor & Autonomous AI Systems Engineering Researcher.
+Independent Open Source Contributor & Bug Bounty Hunter.
 
 ---
 
 ### 💳 Bounty Payout & Contributor Remittance
 For project maintainers, bug bounty programs, and hackathon organizers wishing to remit rewards or bounties for accepted PRs:
 
-- **EVM Networks (Base, Arbitrum, Ethereum Mainnet, Polygon)**:  
-  `0x2Ff6Fc5790CD44F91D87f72bE90cC6d9a8092b77`  
+- **EVM Networks (Base, Arbitrum, Ethereum, Polygon)**:  
+  `0xF45212518D4335375708932b0459d937baFD93aa`  
   *(Accepted tokens: USDC, USDT, ETH)*
 
 - **Solana Network**:  
-  `Fqqa1QJjzJSG4xjiECa2YDAfBjq2VLmRhYiChQVc4TCE`  
+  `2ohcXTE8va4n42krDodgHGCnSkxyHa7uDmwhK2iE2vGi`  
   *(Accepted tokens: USDC, SOL)*
 
-- **Polkadot / AssetHub Network**:
-  `15wziXsRbp1F6s1MDzbipXx737WppScXmreNTP8gQXyRmbdi`
-  *(Accepted tokens: DOT, USDC, USDT)*
-
-#### 💼 Traditional Invoicing & Direct Sponsorship
-- **Invoice Remittance / Wise**: `hieuk48tin@gmail.com`
-- **GitHub Sponsors**: [https://github.com/sponsors/duns40399](https://github.com/sponsors/duns40399)
+- **Polkadot / AssetHub (DOT)**:  
+  `1ynjCXqARLpGT1Km5m1KBLP6XEPYTSsG7jbQWoSt8evvq56`  
+  *(Accepted tokens: DOT, USDT on AssetHub)*
 
 - **Official Contact**:  
   `duns40399@gmail.com`
 
 ---
-> **Settlement Memo:** `Verified Contributor Remittance`  
-> *Verified Contributor Settlement Profile powered by DevCoreAuto Mesh.*
+*Verified Independent Contributor Profile.*
